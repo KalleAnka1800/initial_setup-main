@@ -1,0 +1,10 @@
+wget https://github.com/ryanoasis/nerd-fonts/releases/download/v3.0.2/Inconsolata.zip
+
+unzip Inconsolata.zip
+/usr/share/fonts
+
+fc-cache -fv
+
+
+
+net-tools   ===== ifconfig
