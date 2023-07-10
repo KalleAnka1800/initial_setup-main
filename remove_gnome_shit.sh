@@ -31,7 +31,8 @@ simple-scan\
 gnome-contacts\
 libreoffice-gnome\
 gnome-sound-recorder\
-libreoffice-common -y
+libreoffice-common\
+evolution -y
 
 sudo apt remove\
   cheese-common coinor-libcbc3 coinor-libcgl1 coinor-libclp1\
