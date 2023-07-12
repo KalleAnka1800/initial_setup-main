@@ -8,6 +8,8 @@ sudo apt install nala -y
 sudo apt install exa -y
 locate
 
-
-
 # usermod -a -G examplegroup exampleusername
+
+
+#extensions:
+#-ArcMenu
